@@ -5,3 +5,10 @@ Welcome to the **Data Warehose and Analytics Project** repository!!
 This project demonstrates a comprhensive data warehousing and analytics solution, from building a data warehouse to generating anlytics insights. Designed as a portfolio project highlighting industry best practices in data engineering and analytics.
 
 This project serves as buidling block using the medallion architecture.
+
+## Building the Data warehose (Data Engineering)
+
+## Objective
+Develop a modern data warehouse using Postgres to consolidate sales data and enabling analytical reporting and informed descision making
+
+
